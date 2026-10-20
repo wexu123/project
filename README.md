@@ -1,5 +1,5 @@
 # 听个机吧 Listen to Your Gear
 
-云姬凌云剑 USB DAC 音频控制台（Electron 桌面应用）。
+可用于调整云姬凌云剑小尾巴的各项功能
 
 下载安装包请前往 Releases 页面。

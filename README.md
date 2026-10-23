@@ -1,4 +1,4 @@
-# 听个机吧 Listen to Your Gear
+#  Listen to Your Gear
 
 可用于调整云姬凌云剑小尾巴的各项功能
 
